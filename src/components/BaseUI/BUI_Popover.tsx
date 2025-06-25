@@ -2,7 +2,7 @@ import M3IconButton from "../M3/M3_IconButton"
 import { Popover } from '@base-ui-components/react'
 import { type IconDefinition } from "@fortawesome/fontawesome-svg-core"
 import { type ReactNode } from "react"
-import { type M3ColorRole } from 'tailwind-4-material-colors'
+import { type M3ColorRole } from 'm3-palettes'
 
 export default function BuiPopover({ children, icon, side, offset, background, color }: {
     children: ReactNode,

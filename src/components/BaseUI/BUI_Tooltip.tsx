@@ -1,5 +1,5 @@
 import { Tooltip } from '@base-ui-components/react/tooltip'
-import { type M3ColorRole } from 'tailwind-4-material-colors'
+import { type M3ColorRole } from 'm3-palettes'
 
 export default function BuiTooltip({
 	children,

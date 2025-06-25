@@ -49,13 +49,11 @@ function App() {
 
             {/* BODY */}
 
-            <h1>Tailwind 4 Material Colors (T4MC)</h1>
-
-
+            <h1>m3-palettes</h1>
 
             {/* COLORS */}
 
-            <h2>M3 Color Roles</h2>
+            <h2>Material 3 Color Roles</h2>
 
             <ColorSwatches />
 
